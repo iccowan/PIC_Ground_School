@@ -1,3 +1,3 @@
-# PIC Ground School Website
+PIC Ground School Website
 ===========================
 Developed by Ian Cowan
